@@ -1,0 +1,6 @@
+__pycache__/
+.env
+*.csv
+*.pdf
+.vscode/
+.idea/
