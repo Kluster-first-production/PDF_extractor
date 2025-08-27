@@ -3,5 +3,6 @@ pandas
 PyPDF2
 langchain
 openai
+langchain_groq
 requests
 python-dotenv
